@@ -1,2 +1,4 @@
-# cjtest_Spring_Cloud-config
-cjtest_Spring_Cloud 配置中心
+# springcloud-config
+springcloud-config的配置中心
+
+springcloud-config的配置中心
